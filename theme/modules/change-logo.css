@@ -5,7 +5,7 @@
 */
 
 :root {
-    --logo-url: url('https://raw.githubusercontent.com/JamsRepos/Jamfin@latest/main/assets/banner.png');
+    --logo-url: url('https://cdn.jsdelivr.net/gh/classicalDonkey/Jamfin@a217236d01f4f42e9d9d93d6e25afd8ba6dae1f8/assets/banner.png');
 }
 
 .pageTitleWithDefaultLogo,
